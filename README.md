@@ -1,7 +1,8 @@
+#PYTHON BASICS FOR DATA SCIENCE
 print("Hello Word!")
-
-#Write a Python script to calculate basic statistics (e.g., sum, average, min, max).
-
-#Write a Python script that converts an integer to a float.
-
+#Let's walk down the aisle
+#Get Married to CodING
+#LoveCrypt, Web3.
+#Let's dive in
+#LFG
 #LEXCRYPT (@lexzayo)
